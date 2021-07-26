@@ -1,2 +1,2 @@
 # SlingPuck
- This is webgl version of "SlingPuck"
+ Play on web from here https://nikgamedev.github.io/SlingPuck/
